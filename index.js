@@ -1,6 +1,6 @@
 // Write your code here
-num1 = 31;
-num2=2;
+const num1 = 31;
+const num2=2;
 multiply = 31*2;
 random = Math.random();
 mod = 14/5;
