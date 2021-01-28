@@ -1,5 +1,7 @@
 // Write your code here
-let multiply = num1 * num2;
-let random = Math.random();
-let mod = 14/5;
-let max = Math.max(1, 2, 3, 4, 5, 20);
+num1 = 31;
+num2=2;
+multiply = num1 * num2;
+ random = Math.random();
+ mod = 14/5;
+ max = Math.max(1, 2, 3, 4, 5, 20);
